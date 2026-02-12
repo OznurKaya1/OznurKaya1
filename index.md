@@ -24,7 +24,7 @@ I enjoy turning ideas into functional, user-focused solutions and love tackling 
 <h2 style="font-size: 2em;">Quick Links</h2>
 
 - **View My Projects:** [GitHub](https://github.com/OznurKaya1)  
-- **Resume / LinkedIn:** [LinkedIn][(https://www.linkedin.com/in/oznur-kaya-b95b403a2/)]
+- **Resume / LinkedIn:** [LinkedIn](https://www.linkedin.com/in/oznur-kaya-b95b403a2/)
 - **Connect With Me:** [Email](mailto:oznurkaya1459@gmail.com)  
 
 [Back to Homepage](index.md)
