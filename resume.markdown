@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Resume
 
-**[Download My Resume (PDF)](/assets/resume.pdf)**
+**[Download My Resume (PDF)](/OznurKaya-Resume.pdf)**
 
 ---
 
